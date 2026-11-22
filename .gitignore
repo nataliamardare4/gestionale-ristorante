@@ -1,0 +1,22 @@
+# Cache e file compilati di Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# File di test temporaneo
+prova_test.py
+
+# Ambienti virtuali
+.venv/
+venv/
+env/
+
+# Cache di test e strumenti
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# File di sistema o temporanei
+.DS_Store
+Thumbs.db
+*.log
