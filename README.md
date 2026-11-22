@@ -1,3 +1,5 @@
+>**Presentazione del progetto / Project Presentation:** [Visualizza le slide (PDF)](docs/Gestionale_Ristorante_Presentation.pdf)
+
 # Gestionale Ristorante
 
 [Italiano](#italiano) · [English](#english)
